@@ -4,13 +4,7 @@
   "description": "",
   "main": "flash.js",
   "type": "commonjs",
-  "scripts": {
-    "test": "node flash.js",
-    "s": "node flash.js",
-    "flash": "pm2 start flash.js --attach",
-    "franceking": "pm2 start franceking.js --attach",
-    "c": "tsc"
-  },
+
   "keywords": [
     "bot",
     "Baileys",
